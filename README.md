@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdhocHorizon813
-- 👀 I’m interested in Minecraft Bedrock API
-- 🌱 I’m currently learning SHSS
+- 👀 I’m interested in AGI
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Genshin play(((((
 - 📫 How to reach me...(mail(((
 
